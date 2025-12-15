@@ -221,8 +221,8 @@ export const LoginPage: React.FC = () => {
                   </div>
                 </motion.div> */}
 
-                {/* Social Login Buttons
-                <motion.div
+                Social Login Buttons
+                {/* <motion.div
                   className="grid grid-cols-2 gap-4"
                   initial={{ opacity: 0, y: 20 }}
                   animate={{ opacity: 1, y: 0 }}
@@ -264,8 +264,8 @@ export const LoginPage: React.FC = () => {
                     </svg>
                     GitHub
                   </Button>
-                </motion.div>
-              </form> */}
+                </motion.div> */}
+              </form>
 
               {/* Sign Up Link */}
               <motion.div

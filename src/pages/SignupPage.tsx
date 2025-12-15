@@ -440,8 +440,8 @@ export const SignupPage: React.FC = () => {
                     </svg>
                     GitHub
                   </Button>
-                </motion.div>
-              </form> */}
+                </motion.div> */}
+              </form> 
 
               {/* Login Link */}
               <motion.div
