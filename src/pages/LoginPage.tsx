@@ -213,15 +213,15 @@ export const LoginPage: React.FC = () => {
                   animate={{ opacity: 1 }}
                   transition={{ delay: 0.7 }}
                 >
-                  <Separator className="bg-white/10" />
+                  {/* <Separator className="bg-white/10" />
                   <div className="absolute inset-0 flex items-center justify-center">
                     <span className="bg-background px-4 text-xs text-muted-foreground">
                       OR CONTINUE WITH
                     </span>
                   </div>
-                </motion.div>
+                </motion.div> */}
 
-                {/* Social Login Buttons */}
+                {/* Social Login Buttons
                 <motion.div
                   className="grid grid-cols-2 gap-4"
                   initial={{ opacity: 0, y: 20 }}
@@ -265,7 +265,7 @@ export const LoginPage: React.FC = () => {
                     GitHub
                   </Button>
                 </motion.div>
-              </form>
+              </form> */}
 
               {/* Sign Up Link */}
               <motion.div
