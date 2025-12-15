@@ -383,13 +383,13 @@ export const SignupPage: React.FC = () => {
                 </motion.div>
 
                 {/* Divider */}
-                <motion.div
+                {/*<motion.div
                   className="relative"
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
                   transition={{ delay: 0.9 }}
                 >
-                  {/* <Separator className="bg-white/10" />
+                   <Separator className="bg-white/10" />
                   <div className="absolute inset-0 flex items-center justify-center">
                     <span className="bg-background px-4 text-xs text-muted-foreground">
                       OR CONTINUE WITH
