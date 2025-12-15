@@ -221,7 +221,7 @@ export const LoginPage: React.FC = () => {
                   </div>
                 </motion.div> */}
 
-                Social Login Buttons
+                {/* Social Login Buttons */}
                 {/* <motion.div
                   className="grid grid-cols-2 gap-4"
                   initial={{ opacity: 0, y: 20 }}
